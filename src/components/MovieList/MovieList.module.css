@@ -1,0 +1,5 @@
+.grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 16px; }
+.card { border: 1px solid #e5e7eb; border-radius: 8px; overflow: hidden; background: #fff; }
+.poster { width: 100%; display: block; }
+.itemLink { display: block; color: inherit; text-decoration: none; }
+.title { display: block; padding: 8px; font-size: 14px; }

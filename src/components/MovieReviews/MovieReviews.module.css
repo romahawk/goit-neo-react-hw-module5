@@ -1,0 +1,4 @@
+.error { color: #b91c1c; }
+.list { list-style: none; padding: 0; display: grid; gap: 12px; }
+.item { border: 1px solid #e5e7eb; padding: 12px; border-radius: 8px; background: #fff; }
+.author { font-weight: 600; margin-bottom: 6px; }

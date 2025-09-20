@@ -1,0 +1,9 @@
+.back { display: inline-block; margin-bottom: 12px; }
+.error { color: #b91c1c; }
+.wrap { display: grid; grid-template-columns: 200px 1fr; gap: 16px; }
+.poster { width: 200px; border-radius: 8px; }
+.info { display: grid; gap: 8px; }
+.title { margin: 0; }
+.subnav { display: flex; gap: 12px; margin-top: 16px; margin-bottom: 8px; }
+.link { color: #334155; text-decoration: none; }
+.active { color: #1d4ed8; text-decoration: underline; }

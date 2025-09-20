@@ -1,0 +1,6 @@
+.error { color: #b91c1c; }
+.list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+.item { display: flex; gap: 8px; border: 1px solid #e5e7eb; padding: 8px; border-radius: 8px; background: #fff; }
+.avatar { width: 60px; height: 90px; object-fit: cover; border-radius: 6px; }
+.name { font-weight: 600; }
+.char { color: #64748b; font-size: 14px; }

@@ -1,0 +1,4 @@
+.header { border-bottom: 1px solid #e5e7eb; margin-bottom: 16px; }
+.nav { display: flex; gap: 12px; padding: 12px 0; }
+.link { color: #334155; text-decoration: none; }
+.active { color: #1d4ed8; text-decoration: underline; }
